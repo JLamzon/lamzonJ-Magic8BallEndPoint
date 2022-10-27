@@ -2,7 +2,9 @@
 //10/27/22
 //Magic 8 Ball
 //webapi application that has endpoints configured to complete Mini Challenge
+//URL: https://localhost:7250/magic8ball/magic/*Ask Question*
 //Peer review:
+
 
 
 using Microsoft.AspNetCore.Mvc;
